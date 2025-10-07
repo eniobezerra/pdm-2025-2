@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.marciobueno1.pdm20252"
+      "bundleIdentifier": "com.enio.pdm20252"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.marciobueno1.pdm20252"
+      "package": "com.enio.pdm20252"
     },
     "web": {
       "bundler": "metro",
@@ -42,17 +42,18 @@
     "experiments": {
       "typedRoutes": true
     },
-    "extra": {
-      "eas": {
-        "projectId": "35aae221-2f3c-4cba-a266-939001718d54"
-      }
-    },
-    "owner": "marciobueno1",
-    "updates": {
-      "url": "https://u.expo.dev/35aae221-2f3c-4cba-a266-939001718d54"
-    },
+    "owner": "eniobezerra",
     "runtimeVersion": {
       "policy": "appVersion"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "56b851db-6426-4d06-ab4b-0126c1dafac9"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/56b851db-6426-4d06-ab4b-0126c1dafac9"
     }
   }
 }
